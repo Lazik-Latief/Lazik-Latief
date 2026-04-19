@@ -1,4 +1,4 @@
- # 💫 About Me:
+ # 💫 Lazik Latief:
 🎨 Frontend Developer focused on building modern, responsive, and visually clean web interfaces.<br><br>I work with HTML, CSS, JavaScript, and React to create smooth and interactive user experiences.<br><br>Previously worked on building an LMS during my internship.<br><br>⚡ Focus:<br><br>* UI/UX Design<br>* Responsive Layouts<br>* Animations (Framer Motion)<br>
 
 
