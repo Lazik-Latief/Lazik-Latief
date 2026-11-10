@@ -177,7 +177,7 @@ and AI features that make an app genuinely smarter instead of just trendier.
     </td>
     <td align="center" width="360" valign="top">
       <h3>🤖 StudyFlow</h3>
-      <sub>AI SaaS platform that helps students learn, plan, and study smarter.</sub>
+      <sub>AI SaaS platform that helps students learn, plan, and study smarter. (Work is going on)</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase"/>
